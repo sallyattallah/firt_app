@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "457494442545",
+    "project_id": "first-firebase-project-e2665",
+    "storage_bucket": "first-firebase-project-e2665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457494442545:android:de91bee3908e1ae1eb9b10",
+        "android_client_info": {
+          "package_name": "com.example.sally_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457494442545-84smd3obv16js035nefu9ksregnhdpir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sally_shop_app",
+            "certificate_hash": "b15145f5933fe6b4ceed35ee351af36b627671f6"
+          }
+        },
+        {
+          "client_id": "457494442545-092c09dbn8ieenai4mkiv4o0551pib87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnLC83IPl95BVZTXEgSVN1IsHj3pm0NZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457494442545-092c09dbn8ieenai4mkiv4o0551pib87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

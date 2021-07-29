@@ -1,0 +1,29 @@
+
+
+
+
+abstract class SocialRegisterStates {}
+
+class SocialRegisterInitialState extends SocialRegisterStates {}
+
+class SocialRegisterLoadingState extends SocialRegisterStates {}
+
+class SocialCreateUserSuccessState extends SocialRegisterStates {}
+
+class SocialCreateUserErrorState extends SocialRegisterStates {
+
+  final String error;
+
+  SocialCreateUserErrorState(this.error);
+}
+
+class SocialRegisterSuccessState extends SocialRegisterStates {}
+
+class SocialRegisterErrorState extends SocialRegisterStates
+{
+  final String error;
+
+  SocialRegisterErrorState(this.error);
+}
+
+class SocialRegisterChangePasswordVisibilityState extends SocialRegisterStates {}
